@@ -1,25 +1,34 @@
+try:
+    y=0
+    import os
+    import webbrowser
+    from os import path, system
+    import pyautogui
+    import time
+    from matplotlib import pyplot as plt
+    import numpy as np
+    from PIL import Image
+    import sys
+    import time
+    from colorama import init, Fore, Back, Style
+    import logging
+    import datetime
+    import getpass
+    import socket
+    from selenium import webdriver
+    import itertools
+    import threading
+    import playsound
+except ImportError:
+    print("Trying to install the required modules! THIS MAY DISPLAY LARGE ERRORS!\nPlease try to run this script again once all of the modules have been successfully installed.\n\n")
+    input("press enter to start installing... ")
+    system("py -m pip install -r requirements.txt")
+    system("python -m pip install -r requirements.txt")
+    system("python3 -m pip install -r requirements.txt")
+    input("\n\ndone installing modules! please restart the script now. Press enter to continue... ")
+    quit()
 
-y=0
-import os
-import webbrowser
-from os import path, system
-import pyautogui
-import time
-from matplotlib import pyplot as plt
-import numpy as np
-from PIL import Image
-import sys
-import time
-from colorama import init, Fore, Back, Style
-import logging
-import datetime
-import getpass
-import socket
-from selenium import webdriver
-import itertools
-import threading
-import playsound
-
+init()
 
 
 print('Launching "Everest"...')
