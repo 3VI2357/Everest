@@ -96,7 +96,7 @@ time.sleep(0.3)
 print(Fore.GREEN + "           └─────────────────────────────────┘")
 (Fore.MAGENTA + "Date: %s" % time.ctime())
 time.sleep(0.3)
-string = 'Follow me on Twitter! @LaiBranden...'
+string = 'Follow me on Twitter! @a...'
 substr = ""
 
 for char in string:
@@ -117,7 +117,7 @@ name = str(input(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"
 x=name
 print(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"+Fore.BLUE+"Everest" + Fore.RED + "]" +"Hello" + " "+name + "!")
 
-if name == 'Branden Lai':
+if name == 'a':
   print(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"+Fore.BLUE+"Everest" + Fore.RED + "]" +Fore.GREEN + 'Ethernet adapter Radmin VPN: Connection-specific DNS Suffix Disconnected... Ip:192.432.432 Connected... Connection Radmin Unistalled...Ethernet adapter VirtualBox Host-Only Network...Ip Grabbed Successful...Media disconnected...Wireless LAN adapter Wi-Fi Disconnected...Tunnel adapter Teredo Tunneling Pseudo-Interface Connected...Port:2138 Tunneled...Ip Grabbed...Requirement already satisfied:...Requirement already satisfied:...Requirement already satisfied:...Requirement already satisfied: Path:C:/Users/Lib/Desktop/Image Project/697033-32983.jpg Installed...Requirement already satisfied...Requirement already satisfied...Requirement already satisfied...Requirement already satisfied...Requirement already satisfied... GET HACKED KID :D ')
   system("pip3 install aiohttp")
   system("ipconfig")
@@ -131,7 +131,7 @@ if name == 'Branden Lai':
   pyautogui.click(x=310, y=418)
   pyautogui.click(x=310, y=418)
   system(Fore.MAGENTA+"ipconfig")
-  system(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"+Fore.BLUE+"Everest" + Fore.RED + "]" +"prompt Branden Lai Is OP get Rick ROlled")
+  system(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"+Fore.BLUE+"Everest" + Fore.RED + "]" +"prompt a Is OP get Rick ROlled")
   time.sleep(2)
 
   system("ipconfig")
@@ -217,19 +217,19 @@ if name == 'Branden Lai':
   exit()
 else:
 
-        if name == 'Jason Choe':
+        if name == 'Ja':
             print(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"+Fore.BLUE+"Everest" + Fore.RED + "]" +Fore.BLUE + "You are my Best friend Forever! Thanks for everything you have done!!! Thanks for the cakes!")
             exit()
         else:
-            if name == 'Benjamin King':
+            if name == 'Bea':
                 print(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"+Fore.BLUE+"Everest" + Fore.RED + "]" +Fore.RED + "Thanks for Being my Best friend! I owe you big time!")
                 exit()
             else:
-                if name == 'Danny Kim':
+                if name == 'Daam':
                     print(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"+Fore.BLUE+"Everest" + Fore.RED + "]" +Fore.GREEN + "We will Miss you in korea!!! Make sure to keep in contact with us.")
                     exit()
                 else:
-                    if name == 'Sriram Sivakumar':
+                    if name == 'Sa':
                         print(Fore.RED + "[" + Fore.BLUE + getpass.getuser() + Fore.RED + "@"+Fore.BLUE+"Everest" + Fore.RED + "]" +Fore.GREEN + 'Thanks for teaching me coding and using your own time for me! Please keep teaching me and Thanks so much!!!')
 
                     else:
@@ -253,7 +253,7 @@ if option == 1:
     else:
 
         print(f"your path is {path}")
-    path = "C:/Users/Branden/Desktop/Image Project/697033-bigthumbnail.jpg"
+    path = "C:/Usa"
     matrix = [[[255, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0]], [[0, 0, 0], [0, 0, 0]],
               [[0, 0, 0], [0, 0, 0]]]
     i = Image.open(path).resize((250, 150)).convert("L")
